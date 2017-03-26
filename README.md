@@ -5,7 +5,7 @@ Here you will find edited and formatted extracts of discussions on interesting t
 # Topics
 
 <ol>
-<li>[Tattva Sankhyana](ts.html)</li>
+<li>[Tattva Sankhyana](https://gsbmadhva.github.io/whatsapp/ts.html)</li>
 </ol>
 <!--
 You can use the [editor on GitHub](https://github.com/gsbmadhva/gsbmadhva/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
